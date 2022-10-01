@@ -1,10 +1,10 @@
 # Data processing with python: pandas, numpy, sklearn
 
-**Day 1:** 
- -Introduction
- -Installing Anaconda 
- -Running jupyter notebooks 
- -Basic operations in python
+Day 1: 
+ Introduction
+ Installing Anaconda 
+ Running jupyter notebooks 
+ Basic operations in python
 
 Day 2:
  Basic operations in python cont’
